@@ -1,0 +1,9 @@
+FRONT:
+FRONT OK. page edit infos user courrant
+FRONT OK. page profile utilisateur
+x. page film
+x. notifications
+...
+
+BACK:
+...
