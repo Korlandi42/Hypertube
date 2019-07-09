@@ -1,3 +1,7 @@
+Home :
+
+![alt text](https://github.com/Korlandi42/Hypertube/blob/master/Preview/Screen%20Shot%202019-07-09%20at%2011.55.26%20PM.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
