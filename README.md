@@ -18,6 +18,10 @@ Sidebar menu:
 
 ![alt text](https://github.com/Korlandi42/Hypertube/blob/master/Preview/Screen%20Shot%202019-07-10%20at%2012.08.57%20AM.png?raw=true)
 
+Login/ Sign up:
+
+![alt text](https://github.com/Korlandi42/Hypertube/blob/master/Preview/Screen%20Shot%202019-07-10%20at%2012.12.42%20AM.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
